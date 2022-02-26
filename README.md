@@ -32,7 +32,7 @@
 
 It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
 <h3><p align="center">edited</p></h3>
-  removed ngrok it"s not working !!!!
+  removed ngrok it's not working !!!!
   
 
 ### Features
