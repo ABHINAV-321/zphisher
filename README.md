@@ -51,7 +51,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
+$ https://github.com/ABHINAV-321/zphisher/edit/master/README.md
 ```
 
 - Change to cloned directory and run `zphisher.sh` -
@@ -62,11 +62,11 @@ $ bash zphisher.sh
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
 
-### Run on Docker
-```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
-```
+
+
+
+
+
 
 ### Dependencies
 
